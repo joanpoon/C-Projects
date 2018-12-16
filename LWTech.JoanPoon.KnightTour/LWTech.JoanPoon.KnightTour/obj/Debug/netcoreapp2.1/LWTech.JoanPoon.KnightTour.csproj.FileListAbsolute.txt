@@ -1,0 +1,11 @@
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.deps.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.runtimeconfig.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.runtimeconfig.dev.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.dll
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.pdb
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.csprojAssemblyReference.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.csproj.CoreCompileInputs.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.AssemblyInfoInputs.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.AssemblyInfo.cs
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.dll
+/Users/joanpoon/Projects/LWTech.JoanPoon.KnightTour/LWTech.JoanPoon.KnightTour/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.KnightTour.pdb

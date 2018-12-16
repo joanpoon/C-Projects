@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B55A7499-04FF-4397-8412-4CB07C357103}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LWTech.JoanPoon.KnightTour/Program.cs">
+    <Files>
+      <File FileName="LWTech.JoanPoon.KnightTour/Program.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LWTech.JoanPoon.KnightTour PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

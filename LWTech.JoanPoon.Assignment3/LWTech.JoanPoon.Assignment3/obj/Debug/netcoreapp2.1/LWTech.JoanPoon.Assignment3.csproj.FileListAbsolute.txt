@@ -1,0 +1,11 @@
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.deps.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.runtimeconfig.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.runtimeconfig.dev.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.dll
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.pdb
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.csprojAssemblyReference.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.csproj.CoreCompileInputs.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.AssemblyInfoInputs.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.AssemblyInfo.cs
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.dll
+/Users/joanpoon/Projects/LWTech.JoanPoon.Assignment3/LWTech.JoanPoon.Assignment3/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.Assignment3.pdb

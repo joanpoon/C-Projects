@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LWTech.JoanPoon.Assignment7", "LWTech.JoanPoon.Assignment7\LWTech.JoanPoon.Assignment7.csproj", "{4B84E28D-0149-42AD-AEA8-EB822B4E2E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B84E28D-0149-42AD-AEA8-EB822B4E2E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B84E28D-0149-42AD-AEA8-EB822B4E2E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B84E28D-0149-42AD-AEA8-EB822B4E2E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B84E28D-0149-42AD-AEA8-EB822B4E2E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

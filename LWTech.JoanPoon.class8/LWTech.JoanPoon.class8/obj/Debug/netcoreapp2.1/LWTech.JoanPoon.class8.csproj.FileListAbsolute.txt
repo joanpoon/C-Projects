@@ -1,0 +1,11 @@
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.deps.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.runtimeconfig.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.runtimeconfig.dev.json
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.dll
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/bin/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.pdb
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.csprojAssemblyReference.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.csproj.CoreCompileInputs.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.AssemblyInfoInputs.cache
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.AssemblyInfo.cs
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.dll
+/Users/joanpoon/Projects/LWTech.JoanPoon.class8/LWTech.JoanPoon.class8/obj/Debug/netcoreapp2.1/LWTech.JoanPoon.class8.pdb

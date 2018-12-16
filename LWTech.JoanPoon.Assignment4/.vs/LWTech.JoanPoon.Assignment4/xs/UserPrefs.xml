@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7BED3FFD-4AB3-45E0-8146-78CFB0A5D526}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LWTech.JoanPoon.Assignment4/Program.cs">
+    <Files>
+      <File FileName="LWTech.JoanPoon.Assignment4/Hand.cs" Line="55" Column="29" />
+      <File FileName="LWTech.JoanPoon.Assignment4/Player.cs" Line="196" Column="10" />
+      <File FileName="LWTech.JoanPoon.Assignment4/Program.cs" Line="206" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LWTech.JoanPoon.Assignment4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

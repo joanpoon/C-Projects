@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2FDBC651-AE0D-42F8-BBB3-D712C26AA6C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaxPathSum/Program.cs">
+    <Files>
+      <File FileName="MaxPathSum/Program.cs" Line="16" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MaxPathSum PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

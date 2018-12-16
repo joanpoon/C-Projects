@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1E5D1618-B926-48B6-B037-4127DA67F856}|Default">
+  <MonoDevelop.Ide.ItemProperties.LWTech.JoanPoon.Assignment5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LWTech.JoanPoon.Assignment5/Program.cs">
+    <Files>
+      <File FileName="LWTech.JoanPoon.Assignment5/Program.cs" Line="99" Column="25" />
+      <File FileName="LWTech.JoanPoon.Assignment5/Card.cs" Line="19" Column="24" />
+      <File FileName="LWTech.JoanPoon.Assignment5/Deck.cs" Line="64" Column="56" />
+      <File FileName="LWTech.JoanPoon.Assignment5/Hand.cs" Line="49" Column="14" />
+      <File FileName="LWTech.JoanPoon.Assignment5/Player.cs" Line="177" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
